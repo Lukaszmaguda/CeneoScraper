@@ -29,7 +29,7 @@ selectors = {
     "pros": ["div.review-feature__title--positives ~ div.review-feature__item", None, True],
 }
 
-product_code = "123849599"
+product_code = "96685108"
 all_opinions = []
 url = f"https://www.ceneo.pl/{product_code}#tab=reviews"
 while(url):
